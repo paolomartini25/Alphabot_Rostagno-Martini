@@ -12,3 +12,6 @@ Va scaricato sul pc.
 # server_BOT.py
 Riceve i comandi dal client e li esegue.
 Va scaricata nel raspberry pi.
+
+# db_alpha.db
+E' il database su cui vengono salvate le sequenze che l'alphabot dovrà eseguire.
